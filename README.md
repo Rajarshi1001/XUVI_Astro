@@ -1,6 +1,6 @@
 # Submission Guidelines for this Project
 
-This repository is meant for submission of the assignments of the __XUVI_Astro__ Summer Project offered by the **Astronomy Club**, IITK.The assignemnts will be released on a weekly basis through the official **AstroClubiitk** repository and the submission are expected to be made through this repository.     
+This repository is meant for submission of the assignments of the __XUVI_Astro__ Summer Project offered by the **Astronomy Club**, IITK.The assignments will be released on a weekly basis through the official **AstroClubiitk** repository and the submission are expected to be made through this repository.     
 
 Firstly, fork this repository and clone it on your local machine using `git clone`
 
