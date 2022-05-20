@@ -8,10 +8,10 @@ Firstly, fork this repository and clone it on your local machine using `git clon
 git clone https://github.com/<your_github_username>/XUVI_Astro.git
 ```
 
-Then create a directory in the repository and the name of directory should be kept as **<Roll_no>_<First_name>_<Surname>**.
+Then create a directory in the repository and the name of directory should be kept as `<Roll_no>_<First_name>_<Surname>`.
 Inside your name create folders named __Week<week_number>__ and make upload respective solutions to the assignments that will be released weekly.
 For now, add a README.md inside your respective directory, the content of which must be:
- ```bash
+ ```
 # README
 
 Name    : <Your_name>
